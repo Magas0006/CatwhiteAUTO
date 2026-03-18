@@ -1,9 +1,8 @@
-#profile-title: 👾🌿CatwhiteVPN🌿👾
-#profile-update-interval: 1
-#announce: ⚡️Тгк @catlergememe версия: 22.1.44⚡️
-#support-url: https://t.me/catlergememe/856
-#profile-web-page-url: https://twinkalex1470-crypto.github.io/Catsite/
-#hide-settings: 1
+#profile-title: ☪️🚔💥Расул💥🚔📶
+#profile-update-interval: 24
+#announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1920951622
+#support-url: https://https://t.me/+FjJ74BFKY8xjNGMyuyp
 
 vless://b73855fb-2ec9-4039-935a-a206dda339f8@37.139.35.32:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=/#🇪🇪 Эстония |💠| от катлер
 vless://90c65197-b2b1-4393-8492-253a7cefcc31@185.88.36.55:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=30eHXS9LpzFg443EtLaGLuDFo2QGa4zvLM7WdT-tSiM&sid=35debf0dc757d053&sni=www.google.com&path=&host=#🇫🇮 Финляндия |💠| от катлер
